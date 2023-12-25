@@ -5,8 +5,10 @@
     <img width="335px" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Jean-Barros-Duarte&show_icons=true&theme=transparent&bg_color=000&border_color=30A3DC&layout=compact" />
 </div>
 
+
+
   <h2>My Skills</h2>
-  
+
   <div>
     <h3>Main Stack:</h3>
     
@@ -15,11 +17,15 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
   </div>
 
-  <div>
+
+
+ <div>
      <h3>Studying in this moment:</h3>
     
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
   </div>
+
+
 
   <div>
      <h3>To study soon:</h3>
@@ -29,6 +35,7 @@
   ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
   ![ReactNative.js](https://img.shields.io/badge/React_Native-20232b?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
   </div>
+
 
   <div>
     <h3>Databases:</h3>
@@ -44,16 +51,9 @@
 
 
 <div>
-<h2>🌐 Connect with Me</h2>
-  
-<a href="https://www.linkedin.com/in/jean-barros-duarte/" target="_blank"/>
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
-</a>  
+  <h2>🌐 Connect with Me</h2>
     
-</div>
-
-</div>
-
-<div style="text-align: center; margin-bottom: 100px; max-width: 519px;">
-
+  <a href="https://www.linkedin.com/in/jean-barros-duarte/" target="_blank"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+  </a>     
 </div>
