@@ -10,7 +10,11 @@
   <h2>My Skills</h2>
 
   <div>
-    <h3>Main Stack:</h3>
+  <h3>Design</h3>
+    
+  ![FIGMA](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+    
+  <h3>Main Stack:</h3>
     
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -31,16 +35,16 @@
      <h3>To study soon:</h3>
     
   ![Bootstrap.js](https://img.shields.io/badge/Bootstrap-6f42c1.svg?style=for-the-badge&logo=Bootstrap&logoColor=fff)&nbsp;
-  ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=fff)&nbsp;
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=nodedotjs&logoColor=fff)&nbsp;
   ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-  ![ReactNative.js](https://img.shields.io/badge/React_Native-20232b?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+  ![ReactNative.js](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
   </div>
 
 
   <div>
     <h3>Databases:</h3>
     <img alt="Mysql" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/>
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-339933.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/>
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   </div>
 
   <div>
