@@ -51,7 +51,6 @@
     <h3>Workstation Tools:</h3>
     <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/>
     <img alt="github" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
-    <img alt="Trello" src="https://img.shields.io/badge/-Trello-0559C9?style=flat-square&logo=trello&logoColor=white"/>
   </div>
 
 
